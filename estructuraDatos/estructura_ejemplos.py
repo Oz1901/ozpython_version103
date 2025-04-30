@@ -12,5 +12,7 @@ for nombre in palabras_sin_duplicados:
     print("EL nombre es " & nombre)
 
 print("Hola a todos")
+print("Hola, si se pudo")
+
 
 
