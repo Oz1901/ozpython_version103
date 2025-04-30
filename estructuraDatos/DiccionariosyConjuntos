@@ -13,4 +13,9 @@ y = 10
 def sumanumero(x,y);
     return x + y
 
-    
+print("==================== Modificacion de la rama oswaldo calderon 1901 ================")  
+
+x = 19
+y = 24
+def sumanumeros(x,y);
+    return x + y
